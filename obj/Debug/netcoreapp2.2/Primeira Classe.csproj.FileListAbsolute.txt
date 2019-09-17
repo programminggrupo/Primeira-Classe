@@ -1,0 +1,11 @@
+C:\Users\guihx\Documents\Visual Studio 2019\Projects\Primeira Classe\obj\Debug\netcoreapp2.2\Primeira Classe.csprojAssemblyReference.cache
+C:\Users\guihx\Documents\Visual Studio 2019\Projects\Primeira Classe\obj\Debug\netcoreapp2.2\Primeira Classe.csproj.CoreCompileInputs.cache
+C:\Users\guihx\Documents\Visual Studio 2019\Projects\Primeira Classe\obj\Debug\netcoreapp2.2\Primeira Classe.AssemblyInfoInputs.cache
+C:\Users\guihx\Documents\Visual Studio 2019\Projects\Primeira Classe\obj\Debug\netcoreapp2.2\Primeira Classe.AssemblyInfo.cs
+C:\Users\guihx\Documents\Visual Studio 2019\Projects\Primeira Classe\bin\Debug\netcoreapp2.2\Primeira Classe.deps.json
+C:\Users\guihx\Documents\Visual Studio 2019\Projects\Primeira Classe\bin\Debug\netcoreapp2.2\Primeira Classe.runtimeconfig.json
+C:\Users\guihx\Documents\Visual Studio 2019\Projects\Primeira Classe\bin\Debug\netcoreapp2.2\Primeira Classe.runtimeconfig.dev.json
+C:\Users\guihx\Documents\Visual Studio 2019\Projects\Primeira Classe\bin\Debug\netcoreapp2.2\Primeira Classe.dll
+C:\Users\guihx\Documents\Visual Studio 2019\Projects\Primeira Classe\bin\Debug\netcoreapp2.2\Primeira Classe.pdb
+C:\Users\guihx\Documents\Visual Studio 2019\Projects\Primeira Classe\obj\Debug\netcoreapp2.2\Primeira Classe.dll
+C:\Users\guihx\Documents\Visual Studio 2019\Projects\Primeira Classe\obj\Debug\netcoreapp2.2\Primeira Classe.pdb
