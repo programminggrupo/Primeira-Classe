@@ -22,6 +22,7 @@ namespace Primeira_Classe
         public string Sexo { get; set; }
         public float Comprimento { get; set; }
         public float Peso { get; set; }
+        public string bla { get; set; }
 
         public void Latir() { Console.WriteLine("Au au"); }
         public void Morder() { Console.WriteLine("Mordendo"); }
